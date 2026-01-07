@@ -1,0 +1,12 @@
+{
+  "min_wind_kt": 15,
+  "min_consecutive_points": 2,
+  "weekend_days": ["saturday", "sunday"],
+  "spots": [
+    {"name": "Laguna de Lobos", "lat": -34.50, "lon": -59.00, "directions": ["NE", "E", "SE"]},
+    {"name": "Laguna de Chascomús", "lat": -35.5869, "lon": -58.0288, "directions": ["N", "NE", "E", "SE"]},
+    {"name": "Dique Roggero", "lat": -34.6847, "lon": -58.8581, "directions": ["NE", "E"]},
+    {"name": "Río de la Plata (San Isidro)", "lat": -34.4715, "lon": -58.5110, "directions": ["E", "SE", "SSE"]}
+  ]
+}
+
